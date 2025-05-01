@@ -1,0 +1,20 @@
+{
+  "name": "freshehr-postman-openehr-shim",
+  "version": "1.0.0",
+  "description": "package helping postman shim openEHR REST api requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com"
+  },
+  "keywords": [
+    "openehr",
+    "postman",
+    "shim"
+  ],
+  "author": "dr. Ian McNicoll",
+  "license": "Apache-2.0"
+}
